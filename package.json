@@ -1,0 +1,36 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is React projects based on namaste react",
+  "keywords": [
+    "react",
+    "react",
+    "projects",
+    "namaste",
+    "react"
+  ],
+  "homepage": "https://github.com/Sreedevij03/react-projects#readme",
+  "bugs": {
+    "url": "https://github.com/Sreedevij03/react-projects/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sreedevij03/react-projects.git"
+  },
+  "license": "ISC",
+  "author": "Sreedevi Jyothivas",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
